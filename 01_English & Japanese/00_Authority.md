@@ -69,6 +69,8 @@ ITLの責任には、連邦政府の情報システムにおける国家安全�
 The Special Publication 800-series reports on ITL’s research, guidelines, and outreach efforts in information system security, and its collaborative activities with industry, government, and academic organizations.  
 特別刊行物800シリーズは、情報システム・セキュリティにおけるITLの研究、ガイドライン、アウトリーチ活動、および産業界、政府、学術機関との協力活動について報告しています。
 
+<br/>
+
 ### Abstract 
 ### 抄　録
 
@@ -92,3 +94,67 @@ Zero trust focus on protecting resources, not network segments, as the network l
 
 This document contains an abstract definition of zero trust architecture (ZTA) and gives general deployment models and use cases where zero trust could improve an enterprise’s overall information technology security posture.
 この文書では、ゼロ・トラスト・アーキテクチャ（ZTA）の抽象的な定義を含み、ゼロ・トラストが企業の全体的な情報技術セキュリティ態勢を改善する可能性のある一般的な展開モデルとユースケースを示しています。
+
+<br/>
+
+### Keywords 
+### キーワード
+
+architecture; cybersecurity; enterprise; network security; zero trust.  
+アーキテクチャ、サイバーセキュリティ、エンタープライズ、ネットワークセキュリティ、ゼロトラスト  
+
+<br/>
+
+### Acknowledgments
+### 謝　辞
+
+This document is the product of a collaboration between multiple federal agencies and is overseen by the Federal CIO Council.  
+このドキュメントは、複数の連邦政府機関間の共同作業の成果物であり、連邦 CIO 評議会によって監督されています。 
+
+The architecture subgroup is responsible for development of this document, but there are specific individuals who deserve recognition.  
+このドキュメントの開発はアーキテクチャ・サブグループが担当していますが、評価に値する特定の人物がいます。 
+
+These include Greg Holden, project manager of the Federal CIO Council ZTA project; Alper Kerman, project manager for the NIST/National Cybersecurity Center of Excellence ZTA effort; and Douglas Montgomery.  
+Federal CIO Council ZTA プロジェクトのプロジェクト・マネージャーである Greg Holden 氏、NIST/National Cybersecurity Center of Excellence ZTA 取り組みのプロジェクト・マネージャーである Alper Kerman 氏、そして Douglas Montgomery 氏です。
+
+<br/>
+
+### Audience 
+### 対象者
+
+This document is intended to describe zero trust for enterprise security architects.  
+この文書は、企業のセキュリティアーキテクト向けにゼロトラストを説明することを目的としています。 
+
+It is meant to aid understanding of zero trust for civilian unclassified systems and provide a road map to migrate and deploy zero trust security concepts to an enterprise environment.  
+民間の未分類システムに対するゼロトラストの理解を助け、ゼロトラストセキュリティの概念をエンタープライズ環境に移行して展開するためのロードマップを提供することを意図しています。 
+
+Agency cybersecurity managers, network administrators, and managers may also gain insight into zero trust and ZTA from this document.  
+機関のサイバーセキュリティ管理者、ネットワーク管理者、管理者は、この文書からゼロトラストと ZTAについての洞察を得ることができます。
+
+It is not intended to be a single deployment plan for ZTA as an enterprise will have unique business use cases and data assets that require protection.  
+企業には、保護を必要とする独自のビジネスユースケースやデータ資産があるため、ZTAの単一の展開計画を意図したものではありません。
+
+Starting with a solid understanding of the organization’s business and data will result in a strong approach to zero trust.  
+組織のビジネスとデータをしっかりと理解することから始めることで、ゼロトラストへの強力なアプローチが可能になります。
+
+<br/>
+
+### Note to Reviewers 
+### レビュアーへの注意事項 
+
+The purpose of this Special Publication is to develop a technology-neutral set of terms, definitions, and logical architectural components to develop and support a ZTA.  
+この特別出版物の目的は、ZTA を開発し、サポートするための技術的に中立な用語、定義および論理的なアーキテクチャコンポーネントのセットを開発することです。 
+
+This document does not give specific guidance or recommendations on how to deploy zero trust components in an enterprise.  
+この文書は、企業内にゼロトラストコンポーネントを展開する方法について、具体的なガイダンスや推奨事項を提供するものではありません。
+
+Reviewers are asked to tailor their comments based on the stated purpose of the document.  
+レビュアーは、この文書の目的に基づいてコメントを調整することが求められます。
+
+<br/>
+
+### Trademark Information  
+### 商標情報
+
+All registered trademarks or trademarks belong to heir respective organizations.  
+すべての登録商標または商標は、それぞれの組織に帰属します。
