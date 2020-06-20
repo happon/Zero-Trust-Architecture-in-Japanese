@@ -157,4 +157,45 @@ Reviewers are asked to tailor their comments based on the stated purpose of the 
 ### 商標情報
 
 All registered trademarks or trademarks belong to heir respective organizations.  
-すべての登録商標または商標は、それぞれの組織に帰属します。
+すべての登録商標または商標は、それぞれの組織に帰属します。  
+
+<br/>
+
+### Call for Patent Claims
+### 特許請求のお問い合わせ
+
+This public review includes a call for information on essential patent claims (claims whose use would be required for compliance with the guidance or requirements in this Information Technology Laboratory (ITL) draft publication).  
+この公開審査には、必須特許請求の範囲（本情報技術研究所（ITL）出版物草案のガイダンスまたは要件を遵守するために必要とされる特許請求の範囲）に関する情報の募集が含まれています。 
+
+Such guidance and/or requirements may be directly stated in this ITL Publication or by reference to another publication.  
+このようなガイダンスや要件は、本ITL出版物に直接記載されている場合もあれば、他の出版物を参照することによって記載されている場合もあります。
+
+This call also includes disclosure, where known, of the existence of pending U.S. or foreign patent applications relating to this ITL draft publication and of any relevant unexpired U.S. or foreign patents.  
+この呼びかけには、本ITL草案出版物に関連する米国特許出願または外国特許出願の存在、および関連する有効期限の切れていない米国特許または外国特許の存在が判明している場合には、その開示も含まれています。   
+<br/>
+
+ITL may require from the patent holder, or a party authorized to make assurances on its behalf, in written or electronic form, either:  
+ITLは、特許権者またはその代理者に対し、以下のいずれかを書面または電子的な形式で要求することができます。 
+
+a) assurance in the form of a general disclaimer to the effect that such party does not hold and does not currently intend holding any essential patent claim(s); or  
+a) 当事者が本質的な特許請求項を保有しておらず、また現在保有するつもりもない旨の一般的な免責事項の形での保証
+
+b) assurance that a license to such essential patent claim(s) will be made available to applicants desiring to utilize the license for the purpose of complying with the guidance or requirements in this ITL draft publication either:  
+b) 本ITL草案のガイダンスまたは要件を遵守する目的でライセンスを利用したい出願人が、そのような必須特許請求項に対 するライセンスを利用できるようにすることを保証する。
+
+    i. under reasonable terms and conditions that are demonstrably free of any unfair discrimination; or 
+    i. 不当な差別がないことが明らかな合理的な条件の下で    
+    
+    ii. without compensation and under reasonable terms and conditions that are demonstrably free of any unfair discrimination.  
+    ii. 不当な差別がないことが明らかな合理的な条件のもとで、報酬なしであること。 
+    
+    
+Such assurance shall indicate that the patent holder (or third party authorized to make assurances on its behalf) will include in any documents transferring ownership of patents subject to the assurance, provisions sufficient to ensure that the commitments in the assurance are binding on the transferee, and that the transferee will similarly include appropriate provisions in the event of future transfers with the goal of binding each successor-in-interest.  
+このような保証は、特許権者（またはその代理人として保証を行う権限を与えられた第三者）が、保証の対象となる特許の所有権を譲渡する文書に、保証に含まれる約束が譲受人を拘束することを保証するのに十分な条項を含めること、および将来の譲渡の場合には、各利害関係承継人を拘束することを目的として、譲受人が同様に適切な条項を含めることを示すものでなければなりません。 
+
+The assurance shall also indicate that it is intended to be binding on successors-in-interest regardless of whether such provisions are included in the relevant transfer documents.  
+また、保証書には、関連する譲渡文書にそのような条項が含まれているかどうかにかかわらず、利益承継者を拘束することを意図していることも示さなければなりません。 
+
+Such statements should be addressed to: zerotrust-arch@nist.gov  
+このような記述は zerotrust-arch@nist.gov までお願いします。
+
